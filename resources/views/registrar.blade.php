@@ -14,8 +14,10 @@
         <input id="nombre" type="text" name="nombre" class="form-control">
     </div>
     <div class="form-gorup">
+    <label for="nombre">correo de electronico:</label>
     <input id="email" type="email" class="form-controlr" name="email">
     <span id="error_email"></span>
+    </div>
     <div class="form-group">
         <label for="a_paterno">Apellido paterno del usuario:</label>
         <input id="a_paterno" type="text" name="a_paterno" class="form-control">
